@@ -1,0 +1,6 @@
+@TeeTmeFinder_HostAddress = http://localhost:5240
+
+GET {{TeeTmeFinder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
